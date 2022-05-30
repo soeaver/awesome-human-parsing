@@ -54,7 +54,7 @@
 | 2020 |    TIP      | [Edge-sensitive human cutout with hierarchical granularity and loopy matting guidance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8825830)|--|
 | 2020 |    TIP      | [Semantic image segmentation by scale-adaptive networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8879686)|[Code](https://github.com/speedinghzl/Scale-Adaptive-Network)|
 | 2020 |    TPAMI    | [Deep high-resolution representation learning for visual recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9052469)|[Code](https://github.com/HRNet)|
-| 2020 |    TPAMI    | [Self-correction for human parsing](https://arxiv.org/pdf/1910.09777)|--|
+| 2020 |    TPAMI    | [Self-correction for human parsing](https://arxiv.org/pdf/1910.09777)|[Code](https://github.com/PeikeLi/Self-Correction-Human-Parsing)|
 | 2021 |    AAAI     | [Hierarchical information passing based noise-tolerant hybrid learning for semi-supervised human parsing](https://www.aaai.org/AAAI21Papers/AAAI-2890.LiuYunan.pdf)|--|
 | 2021 |    AAAI     | [Progressive one-shot human parsing](https://arxiv.org/pdf/2012.11810)|[Code](https://github.com/Charleshhy/One-shot-Human-Parsing)|
 | 2021 |    ICCV     | [Mining contextual information beyond image for semantic segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_Mining_Contextual_Information_Beyond_Image_for_Semantic_Segmentation_ICCV_2021_paper.pdf)|[Code](https://github.com/CharlesPikachu/)|
