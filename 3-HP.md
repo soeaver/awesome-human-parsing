@@ -88,7 +88,7 @@
 | 2020 |    ECCV     | [Renovating parsing r-cnn for accurate multiple human parsing](https://arxiv.org/pdf/2009.09447)|[Code](https://github.com/soeaver/RP-R-CNN) |
 | 2020 |    TCSVT    | [Human parsing with pyramidical gather-excite context](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9078888)|[Code](https://github.com/31sy/PGECNet) |
 | 2020 |    IJCV     | [Fine-grained multi-human parsing](https://link.springer.com/content/pdf/10.1007/s11263-019-01181-5.pdf)|[Code](https://github.com/ZhaoJ9014/Multi-Human-Parsing_MHP) |
-| 2020 |    TPAMI    | [Self-correction for human parsing](https://arxiv.org/pdf/1910.09777)|-- |
+| 2020 |    TPAMI    | [Self-correction for human parsing](https://arxiv.org/pdf/1910.09777)|[Code](https://github.com/PeikeLi/Self-Correction-Human-Parsing) |
 | 2021 |    CVPR     | [Differentiable multi-granularity human representation learning for instance-aware human semantic parsing](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Differentiable_Multi-Granularity_Human_Representation_Learning_for_Instance-Aware_Human_Semantic_Parsing_CVPR_2021_paper.pdf)|[Code](https://github.com/tfzhou/MG-HumanParsing) |
 | 2021 |    NeuCom   | [Nondiscriminatory treatment: A straightforward framework for multi-human parsing](https://arxiv.org/pdf/2101.10913)|-- |
 | 2021 |    ArXiv    | [Quality-aware network for human parsing](https://arxiv.org/pdf/2103.05997)|[Code](https://github.com/soeaver/QANet) |
