@@ -96,9 +96,37 @@
 
 ### 3.3 Video Human Parsing Models
 
+| Year | Publication | Paper Title                                                                                                                                                                                     |                                                               Project                                                               |
+|------|:-----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| 2018 |    MM       | [Instance-level human parsing via part grouping network](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_Gong_Instance-level_Human_Parsing_ECCV_2018_paper.pdf)|[Code](http://sysu-hcp.net/lip/) |
+| 2018 |    ECCV     | [Deep clustering for unsupervised learning of visual features](https://arxiv.org/pdf/1807.05520)|[Code](https://github.com/philkr/voc-classification) |
+| 2019 |    CVPR     | [Learning correspondence from the cycle-consistency of time](https://arxiv.org/pdf/1903.07593)|[Code](http://ajabri.github.io/timecycle) |
+| 2019 |    NeurIPS  | [Joint-task self-supervised learning for temporal correspondence](https://arxiv.org/pdf/1909.11895)|-- |
+| 2020 |    AAAI     | [Contrastive transformation for self-supervised correspondence learning](https://arxiv.org/pdf/2012.05057)|[Code](https://github.com/594422814/ContrastCorr) |
+| 2020 |    NeurIPS  | [Space-time correspondence as a contrastive random walk](https://arxiv.org/pdf/2006.14613)|-- |
+| 2021 |    CVPR     | [Mining better samples for contrastive learning of temporal correspondence](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeon_Mining_Better_Samples_for_Contrastive_Learning_of_Temporal_Correspondence_CVPR_2021_paper.pdf)|-- |
+| 2021 |    ICCV     | [Rethinking self-supervised correspondence learning: A video frame-level similarity perspective](https://arxiv.org/pdf/2103.17263)|[Code](https://jerryxu.net/VFS) |
+| 2021 |    ICCV     | [Modelling neighbor relation in joint space-time graph for video correspondence learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Modelling_Neighbor_Relation_in_Joint_Space-Time_Graph_for_Video_Correspondence_ICCV_2021_paper.pdf)|-- |
+| 2022 |    CVPR     | [Differentiable multi-granularity human representation learning for instance-aware human semantic parsing](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Differentiable_Multi-Granularity_Human_Representation_Learning_for_Instance-Aware_Human_Semantic_Parsing_CVPR_2021_paper.pdf)|[Code](https://github.com/tfzhou/MG-HumanParsing) |
+| 2022 |    ArXiv    | [Transfer of representations to video label propagation: implementation factors matter](https://arxiv.org/pdf/2203.05553)|-- |
 
 ### 3.4 Face Parsing Models
-
+| Year | Publication | Paper Title                                                                                                                                                                                     |                                                               Project                                                               |
+|------|:-----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| 2013 |    CVPR     | [Exemplar based face parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6619291)|[Project](http://www.cs.wisc.edu/~lizhang/projects/face-parsing/) |
+| 2015 |    CVPR     | [Multi-objective convolutional learning for face labeling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298967)|-- |
+| 2017 |    CVPR     | [Learning adaptive receptive fields for deep image parsing network](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Learning_Adaptive_Receptive_CVPR_2017_paper.pdf)|-- |
+| 2017 |    BMVC     | [Face parsing via recurrent propagation](https://arxiv.org/pdf/1708.01936)|-- |
+| 2017 |    ArXiv    | [Face parsing via a fully-convolutional continuous crf neural network](https://arxiv.org/pdf/1708.03736)|-- |
+| 2018 |    AAAI     | [Residual encoder decoder network and adaptive prior for face parsing](https://dlnext.acm.org/doi/pdf/10.5555/3504035.3504875)|-- |
+| 2019 |    CVPR     | [Face parsing with roi tanh-warping](https://arxiv.org/pdf/1906.01342)|-- |
+| 2019 |    TIP      | [Accurate facial image parsing at real-time speed](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682072)|-- |
+| 2020 |    AAAI     | [A new dataset and boundary-attention semantic segmentation for face parsing](https://ojs.aaai.org/index.php/AAAI/article/view/6832/6686)|[Code](https://github.com/lucia123/lapa-dataset) |
+| 2020 |    ECCV     | [Edge-aware graph representation learning and reasoning for face parsing](https://arxiv.org/pdf/2007.11240)|[Code](https://github.com/tegusi/EAGRNet) |
+| 2021 |    TNNLS    | [Neural architecture search for portrait parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9518382)|[Code](https://github.com/icsa-lab/NASPP) |
+| 2021 |    TNNLS    | [Clrnet: Component-level refinement network for deep face parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525038)|-- |
+| 2021 |    TIP      | [Agrnet: Adaptive graph representation learning and reasoning for face parsing](https://arxiv.org/pdf/2101.07034v2)|-- |
+| 2022 |    ArXiv    | [Decoupled multi-task learning with cyclical self-regulation for face parsing](https://arxiv.org/pdf/2203.14448)|[Code](https://github.com/deepinsight/insightface/tree/master/parsing/dml_csr) |
 
 
 
