@@ -9,7 +9,7 @@
 Please feel free to create issues or pull requests to add papers.
 
 ## 1. Introduction
-Human parsing, considered as the fundamental task of human-centric visual analysis [1], which aims to classify the human parts and clothing accessories in images or videos at pixel-level. Numerous studies have been conducted on human parsing due to its crucial role in widespread application areas, e.g. security monitoring, autonomous driving, social media, fashion media, electronic commerce, visual special effects, artistic creation, etc, giving birth to various excellent human parsing methods and applications. 
+Human parsing, considered as the fundamental task of human-centric visual analysis, which aims to classify the human parts and clothing accessories in images or videos at pixel-level. Numerous studies have been conducted on human parsing due to its crucial role in widespread application areas, e.g. security monitoring, autonomous driving, social media, fashion media, electronic commerce, visual special effects, artistic creation, etc, giving birth to various excellent human parsing methods and applications. 
 
 
 <p align="center">
