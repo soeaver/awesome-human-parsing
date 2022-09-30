@@ -36,9 +36,9 @@ Human parsing aims to partition images or videos into multiple pixel-level seman
 The proposed new baseline is based on the Mask2Former architecture, with only a few improvements adapted to human parsing, called Mask2Former for Parsing (M2FP).
 M2FP achieves state-of-the-art or comparable performance across a broad range of human parsing benchmarks.
 
-- [M2FP](https://github.com/soeaver/M2FP)
+More details see [M2FP](https://github.com/soeaver/M2FP).
 
-<p align="center"><img width="60%" src="pics/m2fp_performance.png" /></p>
+<p align="center"><img width="50%" src="pics/m2fp_performance.png" /></p>
 
 
 ## Citation
