@@ -11,17 +11,12 @@ Please feel free to create issues or pull requests to add papers.
 ## 1. Introduction
 Human parsing aims to partition images or videos into multiple pixel-level semantic parts. In the last decade, it has gained significantly increased interest in the computer vision community and has been utilized in a broad range of practical applications, from security monitoring, to social media, to visual special effects, just to name a few. Although the deep learning-based human parsing solutions have made remarkable achievements, many important concepts, existing challenges and potential research directions are still confusing. In this survey, we comprehensively review three core sub-tasks: single human parsing, multiple human parsing and video human parsing, by introducing their respective task settings, background concepts, relevant problems and applications, representative literature and datasets. We also present quantitative performance comparisons of the reviewed methods on benchmark datasets. Additionally, to promote sustainable development of the community, we put forward a transformer-based human parsing framework, which provides a high-performance baseline for follow-up research through universal, concise and extensible solutions. Finally, we point out a set of under-investigated open issues in this field, and suggest new directions for future study. 
 
-
-<p align="center">
-  <img src="pics/taxonomy.png" width="500">
-</p>
+<p align="center"><img width="60%" src="pics/taxonomy.png" /></p>
 
 
 ## 3.  Deep Learnign Based Human Parsing
 
-<p align="center">
-  <img src="pics/timeline.png" width="750">
-</p>
+<p align="center"><img width="90%" src="pics/timeline.png" /></p>
 
 - [3.1 Single Human Parsing (SHP) Models](https://github.com/soeaver/awesome-human-parsing/blob/main/3-HP.md#31-Single-Human-Parsing-Models)
 - [3.2 Multiple Human Parsing (MHP) Models](https://github.com/soeaver/awesome-human-parsing/blob/main/3-HP.md#32-Multiple-Human-Parsing-Models)
@@ -29,9 +24,7 @@ Human parsing aims to partition images or videos into multiple pixel-level seman
 
 ## 4. Human Parsing Datasets
 
-<p align="center">
-  <img src="pics/datasets.png" width="500">
-</p>
+<p align="center"><img width="90%" src="pics/datasets.png" /></p>
 
 - [4.1 Single Human Parsing (SHP) Datasets](https://github.com/soeaver/awesome-human-parsing/blob/main/4-Datasets.md#41-SHP-Datasets)
 - [4.2 Multiple Human Parsing (MHP) Datasets](https://github.com/soeaver/awesome-human-parsing/blob/main/4-Datasets.md#42-MHP-Datasets)
@@ -45,9 +38,7 @@ M2FP achieves state-of-the-art or comparable performance across a broad range of
 
 - [M2FP](https://github.com/soeaver/M2FP)
 
-<p align="center">
-  <img src="pics/m2fp_performance.png" width="500">
-</p>
+<p align="center"><img width="60%" src="pics/m2fp_performance.png" /></p>
 
 
 ## Citation
