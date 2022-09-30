@@ -13,14 +13,14 @@ Human parsing aims to partition images or videos into multiple pixel-level seman
 
 
 <p align="center">
-  <img src="pics/taxonomy.pdf" width="500">
+  <img src="pics/taxonomy.png" width="500">
 </p>
 
 
 ## 3.  Deep Learnign Based Human Parsing
 
 <p align="center">
-  <img src="pics/timeline.pdf" width="500">
+  <img src="pics/timeline.png" width="750">
 </p>
 
 - [3.1 Single Human Parsing (SHP) Models](https://github.com/soeaver/awesome-human-parsing/blob/main/3-HP.md#31-Single-Human-Parsing-Models)
@@ -46,7 +46,7 @@ M2FP achieves state-of-the-art or comparable performance across a broad range of
 - [M2FP](https://github.com/soeaver/M2FP)
 
 <p align="center">
-  <img src="pics/m2fp_performance.pdf" width="500">
+  <img src="pics/m2fp_performance.png" width="500">
 </p>
 
 
