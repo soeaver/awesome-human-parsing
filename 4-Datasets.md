@@ -1,4 +1,6 @@
 ## 4. Datasets
+
+
 ### 4.1 SHP Datasets
 
 | Dataset       | Year | Publication | #Images    | Other Annotations   | Link                                                         |
@@ -15,6 +17,7 @@
 | ATR-OS        | 2021 | AAAI        | 18,000     | ---                 | [Paper](https://arxiv.org/pdf/2012.11810.pdf), [Homepage](https://github.com/Charleshhy/One-shot-Human-Parsing) |
 | HRHP          | 2021 | CVPRW       | 7,500      | ---                 | [Homepage](https://l2id.github.io/challenge_localization.html) |
 
+
 ### 4.2 MHP Datasets
 
 | Dataset           | Year | Publication | #Images    | Other Annotations               | Link                                                         |
@@ -26,22 +29,10 @@
 | CIHP              | 2018 | ECCV        | 38,280     | Human-box                       | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_Gong_Instance-level_Human_Parsing_ECCV_2018_paper.pdf), [Homepage](http://sysu-hcp.net/lip/overview.php) |
 | DeepFashion2      | 2019 | CVPR        | 491,895    | Clothing-box/landmark/style     | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953890), [Homepage](https://github.com/switchablenorms/DeepFashion2) |
 
+
 ### 4.3 VHP Datasets
 
 | Dataset           | Year | Publication | #Images    | Other Annotations                           | Link                                                         |
 | ------------------| ---- | ----------- | ---------- | ------------------------------------------- | ------------------------------------------------------------ |
 | VIP               | 2018 | MM          | 21,246     | HHuman-box/identity                         | [Paper](https://arxiv.org/pdf/1808.00661), [Homepage](http://sysu-hcp.net/lip) |
 | CPP               | 2021 | CVPR        | 3,475      | Human-box/identity,Semantic-/Instance-seg   | [Paper](https://arxiv.org/pdf/2106.06351), [Homepage](https://github.com/tue-mps/panoptic_parts) |
-
-### 4.4 FP Datasets
-
-| Dataset           | Year | Publication | #Images    | Other Annotations               | Link                                                         |
-| ------------------| ---- | ----------- | ---------- | ------------------------------- | ------------------------------------------------------------ |
-| LFW-PL            | 2013 | CVPR        | 2,972      | ---                             | [Paper](http://vis-www.cs.umass.edu/papers/gloc_cvpr13.pdf), [Homepage](http://vis-www.cs.umass.edu/lfw/lfw_funneled_superpixels_fine.tgz) |
-| Helen             | 2013 | CVPR        | 2,330      | Face-landmark                   | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Smith_Exemplar-Based_Face_Parsing_2013_CVPR_paper.pdf), [Homepage](http://www.cs.wisc.edu/~lizhang/projects/face-parsing/) |
-| LaPa              | 2020 | AAAI        | 22,176     | Face-landmark                   | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6832/6686), [Homepage](https://github.com/lucia123/lapa-dataset) |
-| CelebAMask-HQ     | 2020 | CVPR        | 30,000     | ---                             | [Paper](https://arxiv.org/pdf/1907.11922), [Homepage](https://microsoft.github.io/FaceSynthetics) |
-| FaceSynthetics    | 2021 | CVPR        | 100,000    | Face-landmark/normals/vertices/depth/UVs/albedo | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wood_Fake_It_Till_You_Make_It_Face_Analysis_in_the_ICCV_2021_paper.pdf), [Homepage](https://github.com/switchablenorms/CelebAMask-HQ) |
-| SFP               | 2021 | CVPRW       | 24,713     | ---                             | [Homepage](http://picdataset.com/challenge/index/) |
-
-
