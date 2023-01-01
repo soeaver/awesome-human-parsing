@@ -7,9 +7,12 @@ The existing human parsing can be categorized into three sub-tasks: single human
 
 | Year | Method | Pub.        | Paper Title                                                                                                                                                                                     |                                                               Project                                                               |
 |------|:------:|:-----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| 2012 | Yamaguchi|  CVPR     | [Parsing clothing in fashion photographs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6248101)|--|
 | 2013 | DMPM   |    ICCV     | [A deformable mixture parsing model with parselets](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6751535)|--|
+| 2013 | PaperDoll|  ICCV     | [Paper doll parsing: Retrieving similar styles to parse clothing items](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6751549)|--|
 | 2013 | CFPD   |    TMM      | [Fashion parsing with weak color-category labels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6630093)|--|
 | 2014 | HPM    |    CVPR     | [Towards unified human parsing and pose estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909508)|--|
+| 2015 | M-CNN  |    CVPR     | [Matching-cnn meets knn: Quasi-parametric human parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298748)|--|
 | 2015 | Co-CNN |    ICCV     | [Human parsing with contextualized convolutional neural network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7423822)|[Project](https://github.com/lemondan/HumanParsing-Dataset/)|
 | 2015 | FPVC   |    TMM      | [Fashion parsing with video context](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7120998)|--|
 | 2015 | ATR    |    TPAMI    | [Deep human parsing with active template regression](https://arxiv.org/pdf/1503.02391)|--|
@@ -21,11 +24,12 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2016 | SYSU-Clothes|TMM     | [Clothes coparsing via joint image segmentation and labeling with application to clothing retrieval](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7434660)|[Project](http://vision.sysu.edu.cn/projects/clothing-co-parsing/)|
 | 2017 | Struc-LSTM| CVPR     | [Interpretable structure-evolving lstm](https://arxiv.org/pdf/1703.03055)|--|
 | 2017 | SSL    |    CVPR     | [Look into person: Self-supervised structure-sensitive learning and a new benchmark for human parsing](https://arxiv.org/pdf/1703.05446v2)|[Code](https://github.com/Engineering-Course/LIP_SSL/), [Project](http://hcp.sysu.edu.cn/lip)|
+| 2017 | Joint  |    CVPR     | [Joint multi-person pose estimation and semantic part segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100127)|--|
 | 2018 | ProCNet|    AAAI     | [Progressive cognitive human parsing](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12206/12140)|--|
 | 2018 | AFLA   |    AAAI     | [Cross-domain human parsing via adversarial feature and label adaptation](https://arxiv.org/pdf/1801.01260)|--|
 | 2018 | WSHP   |    CVPR     | [Weakly and semi supervised human body part parsing via pose-guided knowledge transfer](https://arxiv.org/pdf/1805.04310.pdf)|--|
 | 2018 | TGPNet |    MM       | [Trusted guidance pyramid network for human parsing](https://dl.acm.org/doi/pdf/10.1145/3240508.3240634)|[Code](https://github.com/suzhuoi/TGPnet)|
-| 2018 | MuLA   |   ECCV     | [Mutual learning to adapt for joint human parsing and pose estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xuecheng_Nie_Mutual_Learning_to_ECCV_2018_paper.pdf)|--|
+| 2018 | MuLA   |   ECCV      | [Mutual learning to adapt for joint human parsing and pose estimation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xuecheng_Nie_Mutual_Learning_to_ECCV_2018_paper.pdf)|--|
 | 2018 | MMAN   |    ECCV     | [Macromicro adversarial network for human parsing](https://arxiv.org/pdf/1807.08260)|[Code](https://github.com/RoyalVane/MMAN)|
 | 2018 | JPPNet |    TPAMI    | [Look into person: Joint body parsing pose estimation network and a new benchmark](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8327922)|[Project](http://www.sysu-hcp.net/lip/)|
 | 2019 | CE2P   |    AAAI     | [Devil in the details: Towards accurate single and multiple human parsing](https://arxiv.org/pdf/1809.05996.pdf)|[Code](https://github.com/liutinglt/CE2P)|
@@ -43,9 +47,6 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2020 | SemaTree|   ECCV     | [Learning semantic neural tree for human parsing](https://arxiv.org/pdf/1912.09622.pdf)|[Code](https://isrc.iscas.ac.cn/gitlab/research/sematree)|
 | 2020 | OCR    |    ECCV     | [Object-contextual representations for semantic segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510171.pdf)|[Code](https://git.io/openseg), [Code](https://git.io/HRNet.OCR)|
 | 2020 | BGNet  |    ECCV     | [Blended grammar network for human parsing](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690188.pdf)|--|
-| 2020 | PGECNet|    TCSVT    | [Human parsing with pyramidical gather-excite context](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9078888)|[Code](https://github.com/31sy/PGECNet)|
-| 2020 | ESHC   |    TIP      | [Edge-sensitive human cutout with hierarchical granularity and loopy matting guidance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8825830)|--|
-| 2020 | SAN    |    TIP      | [Semantic image segmentation by scale-adaptive networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8879686)|[Code](https://github.com/speedinghzl/Scale-Adaptive-Network)|
 | 2020 | HRNet  |    TPAMI    | [Deep high-resolution representation learning for visual recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9052469)|[Code](https://github.com/HRNet)|
 | 2020 | SCHP   |    TPAMI    | [Self-correction for human parsing](https://arxiv.org/pdf/1910.09777)|[Code](https://github.com/PeikeLi/Self-Correction-Human-Parsing)|
 | 2021 | HIPN   |    AAAI     | [Hierarchical information passing based noise-tolerant hybrid learning for semi-supervised human parsing](https://www.aaai.org/AAAI21Papers/AAAI-2890.LiuYunan.pdf)|--|
@@ -53,16 +54,13 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2021 | MCIBI  |    ICCV     | [Mining contextual information beyond image for semantic segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_Mining_Contextual_Information_Beyond_Image_for_Semantic_Segmentation_ICCV_2021_paper.pdf)|[Code](https://github.com/CharlesPikachu/)|
 | 2021 | ISNet  |    ICCV     | [Isnet: Integrate image-level and semantic-level context for semantic segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_ISNet_Integrate_Image-Level_and_Semantic-Level_Context_for_Semantic_Segmentation_ICCV_2021_paper.pdf)|[Code](https://github.com/SegmentationBLWX)|
 | 2021 | NPPNet |    ICCV     | [Neural architecture search for joint human parsing and pose estimation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zeng_Neural_Architecture_Search_for_Joint_Human_Parsing_and_Pose_Estimation_ICCV_2021_paper.pdf)|[Code](https://github.com/GuHuangAI/NPP)|
-| 2021 | SMDC   |    TCYB     | [Pose-guided hierarchical semantic decomposition and composition for human parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535214)|--|
 | 2021 | HTCorrM|    TPAMI    | [On the correlation among edge, pose and parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527074)|--|
 | 2021 | PRHP   |    TPAMI    | [Hierarchical human semantic parsing with comprehensive part-relation modeling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9340561)|[Code](https://github.com/hlzhu09/Hierarchical-Human-Parsing)|
-| 2021 | EOPNet |    ArXiv    | [End-to-end oneshot human parsing](https://arxiv.org/pdf/2105.01241v1)|[Code](https://github.com/Charleshhy/One-shot-Human-Parsing) |
-| 2021 | QANet  |    ArXiv    | [Quality-aware network for human parsing](https://arxiv.org/pdf/2103.05997.pdf)|[Code](https://github.com/soeaver/QANet)|
 | 2021 | CDGNet |    CVPR     | [Cdgnet: Class distribution guided network for human parsing](https://arxiv.org/pdf/2111.14173.pdf)|[Code](https://github.com/tjpulkl/CDGNet)|
-| 2022 | ML-AGCN|    PR       | [Multilabel learning based adaptive graph convolutional network for human parsing](https://ui.adsabs.harvard.edu/abs/2022PatRe.12708593H/abstract)|-- |
+| 2022 | HSSN   |    CVPR     | [Deep hierarchical semantic segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878466)|[Code](https://github.com/0liliulei/HieraSeg)|
 | 2022 | PRM    |    TMM      | [Human parsing with part-aware relation modeling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9706337)|--|
-| 2022 | PDRNet |    JAS      | [Part decomposition and refinement network for human parsing](https://www.ieee-jas.net/en/article/id/904e9a00-5144-46fa-9cc1-963d7ae3fbcc)|--|
 | 2022 | PADNet |    TPAMI    | [From pose to part: Weakly-supervised pose evolution for human part segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772949)|--|
+
 
 ### 3.2 Multiple Human Parsing Models
 
@@ -76,20 +74,17 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2019 | Unified|    BMVC     | [A top-down unified framework for instance-level human parsing](https://faculty.ucmerced.edu/mhyang/papers/bmvc2019_human_parsing.pdf)|-- |
 | 2020 | RP R-CNN|   ECCV     | [Learning semantic neural tree for human parsing](https://arxiv.org/pdf/1912.09622v1.pdf)|[Code](https://isrc.iscas.ac.cn/gitlab/research/sematree) |
 | 2020 | SemaTree|   ECCV     | [Renovating parsing r-cnn for accurate multiple human parsing](https://arxiv.org/pdf/2009.09447)|[Code](https://github.com/soeaver/RP-R-CNN) |
-| 2020 | PGECNet|    TCSVT    | [Human parsing with pyramidical gather-excite context](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9078888)|[Code](https://github.com/31sy/PGECNet) |
 | 2020 | NAN    |    IJCV     | [Fine-grained multi-human parsing](https://link.springer.com/content/pdf/10.1007/s11263-019-01181-5.pdf)|[Code](https://github.com/ZhaoJ9014/Multi-Human-Parsing_MHP) |
 | 2020 | SCHP   |    TPAMI    | [Self-correction for human parsing](https://arxiv.org/pdf/1910.09777)|[Code](https://github.com/PeikeLi/Self-Correction-Human-Parsing) |
 | 2021 | MGHR   |    CVPR     | [Differentiable multi-granularity human representation learning for instance-aware human semantic parsing](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Differentiable_Multi-Granularity_Human_Representation_Learning_for_Instance-Aware_Human_Semantic_Parsing_CVPR_2021_paper.pdf)|[Code](https://github.com/tfzhou/MG-HumanParsing) |
-| 2021 | QANet  |    ArXiv    | [Quality-aware network for human parsing](https://arxiv.org/pdf/2103.05997)|[Code](https://github.com/soeaver/QANet) |
 | 2022 | AIParsing|  TIP      | [Aiparsing: Anchor-free instance-level human parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9866618)|-- |
-| 2022 | PDRNet |    JAS      | [Part decomposition and refinement network for human parsing](https://www.ieee-jas.net/en/article/id/904e9a00-5144-46fa-9cc1-963d7ae3fbcc)|-- |
-| 2022 | RepParser|  ArXiv    | [Repparser: End-to-end multiple human parsing with representative parts](https://arxiv.org/pdf/2208.12908)|-- |
 
 
 ### 3.3 Video Human Parsing Models
 
 | Year | Method | Publication | Paper Title                                                                                                                                                                                     |                                                               Project                                                               |
 |------|:------:|:-----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| 2018 | ATEN   |    MM       | [Adaptive temporal encoding network for video instance-level human parsing](https://dl.acm.org/doi/10.1145/3240508.3240660)|-- |
 | 2019 | TimeCycle|  CVPR     | [Learning correspondence from the cycle-consistency of time](https://arxiv.org/pdf/1903.07593)|[Code](http://ajabri.github.io/timecycle) |
 | 2019 | UVC    |    NeurIPS  | [Joint-task self-supervised learning for temporal correspondence](https://arxiv.org/pdf/1909.11895)|-- |
 | 2020 | CRW    |    NeurIPS  | [Space-time correspondence as a contrastive random walk](https://arxiv.org/pdf/2006.14613)|-- |
