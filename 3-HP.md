@@ -2,6 +2,8 @@
 
 The existing human parsing can be categorized into three sub-tasks: single human parsing, multiple human parsing, and video human parsing, focusing on parts relationship modeling, human instance discrimination, and temporal correspondence learning, respectively.
 
+<p align="center"><img width="90%" src="pics/correlations.png" /></p>
+
 
 ### 3.1 Single Human Parsing Models
 
