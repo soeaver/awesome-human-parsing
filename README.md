@@ -13,7 +13,7 @@ Human parsing aims to partition humans in image or video into multiple pixel-lev
 <p align="center"><img width="70%" src="pics/taxonomy.png" /></p>
 
 
-## 3.  Deep Learnign Based Human Parsing
+## 3.  Deep Learning Based Human Parsing
 
 <p align="center"><img width="90%" src="pics/timeline.png" /></p>
 

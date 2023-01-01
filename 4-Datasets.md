@@ -1,4 +1,4 @@
-## 4. Datasets
+## 4. Human Parsing Datasets
 
 
 ### 4.1 SHP Datasets
