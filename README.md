@@ -3,10 +3,10 @@
 > [Deep Learning Technique for Human Parsing: A Survey and Outlook]() <br>
 > [![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/pdf/2301.00394.pdf)
 
-If you find the repo. useful, please also consider the following BibTeX entry.
+If you find this repository helpful, please consider citing:
 
 ```BibTeX
-@inproceedings{yang2023humanparsing,
+@article{yang2023humanparsing,
   title={Deep Learning Technique for Human Parsing: A Survey and Outlook},
   author={Lu Yang and Wenhe Jia and Shan Li and Qing Song},
   journal={arXiv preprint arXiv:2301.00394},
