@@ -102,5 +102,8 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2021 | JSTG   |    ICCV     | [Modelling neighbor relation in joint space-time graph for video correspondence learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Modelling_Neighbor_Relation_in_Joint_Space-Time_Graph_for_Video_Correspondence_ICCV_2021_paper.pdf)|-- |
 | 2022 | LIIR   |    CVPR     | [Locality-aware inter-and intra-video reconstruction for self-supervised correspondence learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879494)|[Code](https://github.com/lingorX/LIIR) |
 | 2022 | SCC    |    CVPR     | [Contrastive learning for space-time correspondence via self-cycle consistency](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878462)|-- |
+| 2022 | SFC    |    ECCV     | [Semantic-aware fine-grained correspondence](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_6)|[Code](https://github.com/Yingdong-Hu/SFC) |
 | 2022 | UVC+   |    ArXiv    | [Transfer of representations to video label propagation: implementation factors matter](https://arxiv.org/pdf/2203.05553)|-- |
-
+| 2023 | STVC   |    CVPR     | [Spatial-then-temporal self-supervised learning for video correspondence](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Spatial-Then-Temporal_Self-Supervised_Learning_for_Video_Correspondence_CVPR_2023_paper.pdf)|-- |
+| 2023 | SMTC   |    ICCV     | [Semantics meets temporal correspondence: Self-supervised object-centric learning in videos](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_Semantics_Meets_Temporal_Correspondence_Self-supervised_Object-centric_Learning_in_Videos_ICCV_2023_paper.pdf)|[Code](https://github.com/shvdiwnkozbw/SMTC) |
+| 2022 | SiamMAE|    ArXiv    | [Siamese masked autoencoders](https://arxiv.org/pdf/2305.14344)|[Project](https://siam-mae-video.github.io/) |
