@@ -13,6 +13,8 @@
 | Chictopia10k  | 2015 | ICCV        | 10,000     | Clothing-tag        | [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Liang_Human_Parsing_With_ICCV_2015_paper.pdf) |
 | SYSU-Clothes  | 2016 | TMM         | 2,682      | Clothing-tag        | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7434660) |
 | LIP           | 2017 | CVPR        | 50,462     | ---                 | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf), [Homepage](http://hcp.sysu.edu.cn/lip) |
+| ModaNet       | 2018 | MM          | 55,176     | ---                 | [Paper](https://arxiv.org/pdf/1807.01394.pdf), [Homepage](https://github.com/eBay/modanet) |
+| ATR-OS        | 2021 | AAAI        | 18,000     | ---                 | [Paper](https://arxiv.org/pdf/2012.11810.pdf), [Homepage](https://github.com/Charleshhy/One-shot-Human-Parsing) |
 | HRHP          | 2021 | CVPRW       | 7,500      | ---                 | [Homepage](https://l2id.github.io/challenge_localization.html) |
 
 
