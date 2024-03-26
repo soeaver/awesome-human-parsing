@@ -25,6 +25,7 @@
 | MHP-v2.0          | 2018 | MM          | 25,403     | Human-box                       | [Paper](https://arxiv.org/pdf/1804.03287), [Homepage](https://lv-mhp.github.io/dataset) |
 | COCO-DensePose    | 2018 | CVPR        | 27,659     | Human-box/keypoints/densepoints | [Paper](https://arxiv.org/pdf/1802.00434.pdf), [Homepage](http://densepose.org/) |
 | CIHP              | 2018 | ECCV        | 38,280     | Human-box                       | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_Gong_Instance-level_Human_Parsing_ECCV_2018_paper.pdf), [Homepage](http://sysu-hcp.net/lip/overview.php) |
+| COCO-DeepFashion2 | 2019 | CVPR        | 491,895    | Clothing-box/landmark/style     | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_DeepFashion2_A_Versatile_Benchmark_for_Detection_Pose_Estimation_Segmentation_and_CVPR_2019_paper.pdf), [Homepage](https://github.com/switchablenorms/DeepFashion2) |
 
 
 ### 4.3 VHP Datasets
@@ -32,3 +33,4 @@
 | Dataset           | Year | Publication | #Images    | Other Annotations                           | Link                                                         |
 | ------------------| ---- | ----------- | ---------- | ------------------------------------------- | ------------------------------------------------------------ |
 | VIP               | 2018 | MM          | 21,246     | Human-box/identity                         | [Paper](https://arxiv.org/pdf/1808.00661), [Homepage](http://sysu-hcp.net/lip) |
+| CPP               | 2021 | CVPR        | 3,475      | Human-box/identity/Semantic-/Instance-seg  | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/de_Geus_Part-Aware_Panoptic_Segmentation_CVPR_2021_paper.pdf), [Homepage](https://github.com/pmeletis/panoptic_parts?tab=readme-ov-file) |
