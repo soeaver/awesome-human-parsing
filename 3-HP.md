@@ -63,6 +63,8 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2022 | PRM    |    TMM      | [Human parsing with part-aware relation modeling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9706337)|--|
 | 2022 | PADNet |    TPAMI    | [From pose to part: Weakly-supervised pose evolution for human part segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772949)|--|
 | 2023 | SST    |    CVPR     | [Semantic human parsing via scalable semantic transfer over multiple label domains](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Semantic_Human_Parsing_via_Scalable_Semantic_Transfer_Over_Multiple_Label_CVPR_2023_paper.pdf)|[Code](https://github.com/yangjie-cv/SST)|
+| 2023 | SOLIDER|    CVPR     | [Beyond appearance: a semantic controllable self-supervised learning framework for human-centric visual tasks](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Beyond_Appearance_A_Semantic_Controllable_Self-Supervised_Learning_Framework_for_Human-Centric_CVPR_2023_paper.pdf)|[Code](https://github.com/tinyvision/SOLIDER)|
+| 2023 | EOPNet |    TPAMI    | [End-to-end one-shot human parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207820)|--|
 
 
 ### 3.2 Multiple Human Parsing Models
