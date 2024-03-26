@@ -58,10 +58,11 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2021 | NPPNet |    ICCV     | [Neural architecture search for joint human parsing and pose estimation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zeng_Neural_Architecture_Search_for_Joint_Human_Parsing_and_Pose_Estimation_ICCV_2021_paper.pdf)|[Code](https://github.com/GuHuangAI/NPP)|
 | 2021 | HTCorrM|    TPAMI    | [On the correlation among edge, pose and parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527074)|--|
 | 2021 | PRHP   |    TPAMI    | [Hierarchical human semantic parsing with comprehensive part-relation modeling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9340561)|[Code](https://github.com/hlzhu09/Hierarchical-Human-Parsing)|
-| 2021 | CDGNet |    CVPR     | [Cdgnet: Class distribution guided network for human parsing](https://arxiv.org/pdf/2111.14173.pdf)|[Code](https://github.com/tjpulkl/CDGNet)|
 | 2022 | HSSN   |    CVPR     | [Deep hierarchical semantic segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878466)|[Code](https://github.com/0liliulei/HieraSeg)|
+| 2022 | CDGNet |    CVPR     | [Cdgnet: Class distribution guided network for human parsing]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9706337](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_CDGNet_Class_Distribution_Guided_Network_for_Human_Parsing_CVPR_2022_paper.pdf))|[Code](https://github.com/tjpulkl/CDGNet|
 | 2022 | PRM    |    TMM      | [Human parsing with part-aware relation modeling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9706337)|--|
 | 2022 | PADNet |    TPAMI    | [From pose to part: Weakly-supervised pose evolution for human part segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772949)|--|
+| 2023 | SST    |    CVPR     | [Semantic human parsing via scalable semantic transfer over multiple label domains]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878466](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Semantic_Human_Parsing_via_Scalable_Semantic_Transfer_Over_Multiple_Label_CVPR_2023_paper.pdf))|[Code](https://github.com/yangjie-cv/SST)|
 
 
 ### 3.2 Multiple Human Parsing Models
