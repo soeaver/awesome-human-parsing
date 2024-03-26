@@ -6,11 +6,11 @@
 If you find this repository helpful, please consider citing:
 
 ```BibTeX
-@article{yang2023humanparsing,
+@article{yang2024humanparsing,
   title={Deep Learning Technique for Human Parsing: A Survey and Outlook},
   author={Lu Yang and Wenhe Jia and Shan Li and Qing Song},
-  journal={arXiv preprint arXiv:2301.00394},
-  year={2023}
+  journal={International Journal of Computer Vision},
+  year={2024}
 }
 ```
 
@@ -18,6 +18,12 @@ If you find this repository helpful, please consider citing:
 ## Contributing 
 
 Please feel free to create issues or pull requests to add papers.
+
+## Updates
+
+- **16.03.2024**: Our survey has been accepted to IJCV for publication!
+- **27.05.2022**: We release paper on [ArXiv](https://arxiv.org/abs/2301.00394).
+- **27.05.2022**: We release this GitHub repo.
 
 ## 1. Introduction
 Human parsing aims to partition humans in image or video into multiple pixel-level semantic parts. In the last decade, it has gained significantly increased interest in the computer vision community and has been utilized in a broad range of practical applications, from security monitoring, to social media, to visual special effects, just to name a few. Although deep learning-based human parsing solutions have made remarkable achievements, many important concepts, existing challenges, and potential research directions are still confusing. In this survey, we comprehensively review three core sub-tasks: single human parsing, multiple human parsing, and video human parsing, by introducing their respective task settings, background concepts, relevant problems and applications, representative literature, and datasets. We also present quantitative performance comparisons of the reviewed methods on benchmark datasets. Additionally, to promote sustainable development of the community, we put forward a transformer-based human parsing framework, providing a high-performance baseline for follow-up research through universal, concise, and extensible solutions. Finally, we point out a set of under-investigated open issues in this field and suggest new directions for future study.
