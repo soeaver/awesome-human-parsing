@@ -22,7 +22,7 @@ Please feel free to create issues or pull requests to add papers.
 ## Updates
 
 - **26.03.2024**: We have updated the human parsing papers and datasets that are from 2022 to 2023.
-- **16.03.2024**: Our survey has been accepted to IJCV for publication!
+- **09.03.2024**: Our survey has been accepted to [IJCV](https://link.springer.com/article/10.1007/s11263-024-02031-9) for publication!
 - **27.05.2022**: We release paper on [ArXiv](https://arxiv.org/abs/2301.00394).
 - **27.05.2022**: We release this GitHub repo.
 
