@@ -83,7 +83,10 @@ The existing human parsing can be categorized into three sub-tasks: single human
 | 2020 | SCHP   |    TPAMI    | [Self-correction for human parsing](https://arxiv.org/pdf/1910.09777)|[Code](https://github.com/PeikeLi/Self-Correction-Human-Parsing) |
 | 2021 | MGHR   |    CVPR     | [Differentiable multi-granularity human representation learning for instance-aware human semantic parsing](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Differentiable_Multi-Granularity_Human_Representation_Learning_for_Instance-Aware_Human_Semantic_Parsing_CVPR_2021_paper.pdf)|[Code](https://github.com/tfzhou/MG-HumanParsing) |
 | 2022 | AIParsing|  TIP      | [Aiparsing: Anchor-free instance-level human parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9866618)|-- |
-
+| 2022 | QANet  |    TMM      | [Quality-aware network for human parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9969131)|[Code](https://github.com/soeaver/QANet) |
+| 2023 | HPSP   |    TMM      | [End-to-end instance-level human parsing by segmenting persons](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078373)|-- |
+| 2023 | ReSParser|  TMM      | [Resparser: Fully convolutional multiple human parsing with representative sets](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10138431)|-- |
+| 2023 | CID    |    TPAMI    | [Contextual instance decoupling for instance-level human analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10040902)|-- |
 
 ### 3.3 Video Human Parsing Models
 
